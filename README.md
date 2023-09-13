@@ -46,6 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vdcan78/vdcan78/output/snake.svg" alt="Snake animation" />
 
 ###
