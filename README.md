@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://x.com/vickuta_" target="_blank">
-   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
   </a>
   <a href ="https://stackoverflow.com/users/27205577/victor-cantillo" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
