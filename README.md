@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓛𝓸𝓸𝓴 𝓶𝓸𝓶 𝓘 𝓬𝓪𝓷 𝓯𝓵𝔂<br>999 𝓕𝓸𝓻𝓮𝓿𝓮𝓻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador (no tan bueno pero ahí vamos) <br> Stackoverflow casi no lo uso</p> 
+<p align="left">Ing.Sistemas 💻👨‍💻𝓐𝓷𝓪𝓷𝓴é<br>Programador (no tan bueno pero ahí vamos) <br> Stackoverflow casi no lo uso</p> 
 
 
 ###
