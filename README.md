@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓛𝓸𝓸𝓴 𝓶𝓸𝓶 𝓘 𝓬𝓪𝓷 𝓯𝓵𝔂<br>999 𝓕𝓸𝓻𝓮𝓿𝓮𝓻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador (no tan bueno pero ahí vamos)</p>
+<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓛𝓸𝓸𝓴 𝓶𝓸𝓶 𝓘 𝓬𝓪𝓷 𝓯𝓵𝔂<br>999 𝓕𝓸𝓻𝓮𝓿𝓮𝓻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador (no tan bueno pero ahí vamos) <br> Stackoverflow casi no lo uso</p> 
+
 
 ###
 
@@ -33,7 +34,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href ="https://stackoverflow.com/users/27205577/victor-cantillo" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow (casi no lo uso)"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
