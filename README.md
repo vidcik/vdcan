@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador (no tan bueno pero ahí vamos) <br> Stackoverflow casi no lo uso</p> 
+<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador /p>
 
 
 ###
@@ -34,9 +34,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
-  <a href ="https://stackoverflow.com/users/27205577/victor-cantillo" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
 </div>
 
 ###
