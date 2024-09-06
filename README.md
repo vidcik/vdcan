@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador /p>
+<p align="left">Ing.Sistemas 💻👨‍💻<br>𝓐𝓷𝓪𝓷𝓴é<br>Programador
 
 
 ###
